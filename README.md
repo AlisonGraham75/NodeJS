@@ -1,5 +1,5 @@
 # NodeJS-Read-Write-JSON
-An extremely simple NodeJS app to read/write/remove data from a JSON file.
+An extremely simple NodeJS command line app to read/write/remove data from a JSON file.
 # System Setup
 -  Download NodeJS from Nodejs.org
 - Place JavaScript files into a project
