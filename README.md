@@ -1,7 +1,7 @@
 # NodeJS-Read-Write-JSON
 An extremely simple NodeJS command line app to read/write/remove data from a JSON file.
 # System Setup
--  Download NodeJS from Nodejs.org
+-  Download and install NodeJS from Nodejs.org
 - Place JavaScript files into a project. I use Visual Studio Code, a free IDE. 
 -  From the console, initialize the NPM package manager in your project
     - npm init
